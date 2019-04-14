@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:tools="http://schemas.android.com/tools"
+	xmlns:ads="http://schemas.android.com/res-auto"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:layout_margin="16dp">
+
+	<LinearLayout
+		 android:layout_height="wrap_content"
+		android:layout_width="match_parent"
+		android:orientation="horizontal"
+		android:layout_marginTop="20dp">
+
+		<LinearLayout
+			android:layout_height="wrap_content"
+			android:layout_width="0dp"
+			android:layout_weight="1"
+			android:orientation="vertical"
+			android:gravity="center">
+
+			<android.support.v7.widget.SwitchCompat
+				android:id="@+id/d2"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:textOff=""
+				android:text="D2   "
+				android:background="@android:color/transparent"
+				android:textColor="#ffffff"
+				android:textSize="19sp"
+				android:textOn=""
+				android:button="@null"
+				android:layout_margin="20dp"/>
+
+			<android.support.v7.widget.SwitchCompat
+				android:id="@+id/d3"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:textOff=""
+				android:text="D3   "
+				android:background="@android:color/transparent"
+				android:textColor="#ffffff"
+				android:textSize="19sp"
+				android:textOn=""
+				android:button="@null"
+				android:layout_margin="20dp"/>
+
+			<android.support.v7.widget.SwitchCompat
+				android:id="@+id/d4"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:textOff=""
+				android:text="D4   "
+				android:background="@android:color/transparent"
+				android:textColor="#ffffff"
+				android:textSize="19sp"
+				android:textOn=""
+				android:button="@null"
+				android:layout_margin="20dp"/>
+
+			<android.support.v7.widget.SwitchCompat
+				android:id="@+id/d5"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:textOff=""
+				android:text="D5   "
+				android:background="@android:color/transparent"
+				android:textColor="#ffffff"
+				android:textSize="19sp"
+				android:textOn=""
+				android:button="@null"
+				android:layout_margin="20dp"/>
+
+			<android.support.v7.widget.SwitchCompat
+				android:id="@+id/d6"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:textOff=""
+				android:text="D6   "
+				android:background="@android:color/transparent"
+				android:textColor="#ffffff"
+				android:textSize="19sp"
+				android:textOn=""
+				android:button="@null"
+				android:layout_margin="20dp"/>
+
+			<android.support.v7.widget.SwitchCompat
+				android:id="@+id/d7"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:textOff=""
+				android:text="D7   "
+				android:background="@android:color/transparent"
+				android:textColor="#ffffff"
+				android:textSize="19sp"
+				android:textOn=""
+				android:button="@null"
+				android:layout_margin="20dp"/>
+
+		</LinearLayout>
+
+		<LinearLayout
+			android:layout_height="wrap_content"
+			android:layout_width="0dp"
+			android:layout_weight="1"
+			android:orientation="vertical"
+			android:gravity="center">
+
+			<android.support.v7.widget.SwitchCompat
+				android:id="@+id/d8"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:textOff=""
+				android:text="D8   "
+				android:background="@android:color/transparent"
+				android:textColor="#ffffff"
+				android:textSize="19sp"
+				android:textOn=""
+				android:button="@null"
+				android:layout_margin="20dp"/>
+
+			<android.support.v7.widget.SwitchCompat
+				android:id="@+id/d9"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:textOff=""
+				android:text="D9   "
+				android:background="@android:color/transparent"
+				android:textColor="#ffffff"
+				android:textSize="19sp"
+				android:textOn=""
+				android:button="@null"
+				android:layout_margin="20dp"/>
+
+			<android.support.v7.widget.SwitchCompat
+				android:id="@+id/d10"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:textOff=""
+				android:text="D10 "
+				android:background="@android:color/transparent"
+				android:textColor="#ffffff"
+				android:textSize="19sp"
+				android:textOn=""
+				android:button="@null"
+				android:layout_margin="20dp"/>
+
+			<android.support.v7.widget.SwitchCompat
+				android:id="@+id/d11"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:textOff=""
+				android:text="D11 "
+				android:background="@android:color/transparent"
+				android:textColor="#ffffff"
+				android:textSize="19sp"
+				android:textOn=""
+				android:button="@null"
+				android:layout_margin="20dp"/>
+
+			<android.support.v7.widget.SwitchCompat
+				android:id="@+id/d12"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:textOff=""
+				android:text="D12 "
+				android:background="@android:color/transparent"
+				android:textColor="#ffffff"
+				android:textSize="19sp"
+				android:textOn=""
+				android:button="@null"
+				android:layout_margin="20dp"/>
+
+			<android.support.v7.widget.SwitchCompat
+				android:id="@+id/d13"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:textOff=""
+				android:text="D13 "
+				android:background="@android:color/transparent"
+				android:textColor="#ffffff"
+				android:textSize="19sp"
+				android:textOn=""
+				android:button="@null"
+				android:layout_margin="20dp"/>
+
+		</LinearLayout>
+
+	</LinearLayout>
+
+</RelativeLayout>
+
+

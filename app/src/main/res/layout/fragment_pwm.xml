@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:orientation="vertical"
+	android:layout_margin="16dp">
+
+	<LinearLayout
+		android:layout_height="wrap_content"
+		android:layout_width="match_parent"
+		android:orientation="horizontal"
+		android:padding="10dp"
+		android:layout_marginTop="20dp">
+
+		<TextView
+			android:layout_height="wrap_content"
+			android:text="PIN 3"
+			android:textAppearance="?android:attr/textAppearanceMedium"
+			android:layout_width="wrap_content"
+			android:layout_margin="10dp"
+			android:textColor="#FFFFFF"/>
+
+		<SeekBar
+			android:layout_height="wrap_content"
+			android:layout_width="match_parent"
+			android:layout_margin="10dp"
+			android:id="@+id/p3"
+			android:paddingLeft="25dp"/>
+
+	</LinearLayout>
+
+	<LinearLayout
+		android:layout_height="wrap_content"
+		android:layout_width="match_parent"
+		android:orientation="horizontal"
+		android:padding="10dp">
+
+		<TextView
+			android:layout_height="wrap_content"
+			android:text="PIN 5"
+			android:textAppearance="?android:attr/textAppearanceMedium"
+			android:layout_width="wrap_content"
+			android:layout_margin="10dp"
+			android:textColor="#FEFEFE"/>
+
+		<SeekBar
+			android:layout_height="wrap_content"
+			android:layout_width="match_parent"
+			android:layout_margin="10dp"
+			android:id="@+id/p5"
+			android:paddingLeft="25dp"/>
+
+	</LinearLayout>
+
+	<LinearLayout
+		android:layout_height="wrap_content"
+		android:layout_width="match_parent"
+		android:orientation="horizontal"
+		android:padding="10dp">
+
+		<TextView
+			android:layout_height="wrap_content"
+			android:text="PIN 6"
+			android:textAppearance="?android:attr/textAppearanceMedium"
+			android:layout_width="wrap_content"
+			android:layout_margin="10dp"
+			android:textColor="#FDFDFD"/>
+
+		<SeekBar
+			android:layout_height="wrap_content"
+			android:layout_width="match_parent"
+			android:layout_margin="10dp"
+			android:id="@+id/p6"
+			android:paddingLeft="25dp"/>
+
+	</LinearLayout>
+
+	<LinearLayout
+		android:layout_height="wrap_content"
+		android:layout_width="match_parent"
+		android:orientation="horizontal"
+		android:padding="10dp">
+
+		<TextView
+			android:layout_height="wrap_content"
+			android:text="PIN 9"
+			android:textAppearance="?android:attr/textAppearanceMedium"
+			android:layout_width="wrap_content"
+			android:layout_margin="10dp"
+			android:textColor="#FDFDFD"/>
+
+		<SeekBar
+			android:layout_height="wrap_content"
+			android:layout_width="match_parent"
+			android:layout_margin="10dp"
+			android:id="@+id/p9"
+			android:paddingLeft="25dp"/>
+
+	</LinearLayout>
+
+	<LinearLayout
+		android:layout_height="wrap_content"
+		android:layout_width="match_parent"
+		android:orientation="horizontal"
+		android:padding="10dp">
+
+		<TextView
+			android:layout_height="wrap_content"
+			android:text="PIN 10"
+			android:textAppearance="?android:attr/textAppearanceMedium"
+			android:layout_width="wrap_content"
+			android:layout_margin="10dp"
+			android:textColor="#FCFCFC"/>
+
+		<SeekBar
+			android:layout_height="wrap_content"
+			android:layout_width="match_parent"
+			android:layout_margin="10dp"
+			android:id="@+id/p10"/>
+
+	</LinearLayout>
+
+	<LinearLayout
+		android:layout_height="wrap_content"
+		android:layout_width="match_parent"
+		android:orientation="horizontal"
+		android:padding="10dp">
+
+		<TextView
+			android:layout_height="wrap_content"
+			android:text="PIN 11"
+			android:textAppearance="?android:attr/textAppearanceMedium"
+			android:layout_width="wrap_content"
+			android:layout_margin="10dp"
+			android:textColor="#FFFFFF"/>
+
+		<SeekBar
+			android:layout_height="wrap_content"
+			android:layout_width="match_parent"
+			android:layout_margin="10dp"
+			android:id="@+id/p11"/>
+
+	</LinearLayout>
+
+</LinearLayout>
+
+

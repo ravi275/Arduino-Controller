@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/terms"
+            android:checked="false"
+            android:icon="@drawable/ic_terms"
+            android:title="@string/terms" />
+
+
+        <item
+            android:id="@+id/help"
+            android:checked="false"
+            android:icon="@drawable/ic_help"
+            android:title="@string/help" />
+
+
+        <item
+            android:id="@+id/about"
+            android:checked="false"
+            android:icon="@drawable/ic_about"
+            android:title="@string/about" />
+
+		<item
+            android:id="@+id/exit"
+            android:checked="false"
+            android:icon="@drawable/ic_exit"
+            android:title="@string/exit" />
+
+    </group>
+
+</menu>
+

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/detail_content"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+	android:background="#211D2A">
+
+	<include  android:id="@+id/toolbar"  layout="@layout/tool_bar"  />
+
+	<LinearLayout
+		android:layout_width="fill_parent"
+		android:layout_height="fill_parent"
+		android:orientation="vertical"
+		android:gravity="center">
+
+		<LinearLayout
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:orientation="vertical">
+
+			<ImageView
+				xmlns:app="http://schemas.android.com/apk/res-auto"
+				android:layout_width="150dp"
+				android:layout_height="150dp"
+				android:src="@drawable/about2"
+				android:layout_gravity="center"/>
+
+			<TextView
+				android:id="@+id/name"
+				android:layout_height="wrap_content"
+				android:layout_width="wrap_content"
+				android:text="Raviraju Paidimala"
+				android:textColor="?attr/colorPrimary"
+				android:textSize="20sp"
+				android:layout_gravity="center"
+				android:layout_marginTop="10dp"/>
+
+			<TextView
+				android:id="@+id/info"
+				android:layout_height="wrap_content"
+				android:text="Software Developer"
+				android:layout_width="wrap_content"
+				android:textColor="?attr/colorPrimary"
+				android:layout_gravity="center"
+				android:textSize="15sp"/>
+
+			<TextView
+				android:id="@+id/mail"
+				android:layout_height="wrap_content"
+				android:text=" raviraju606@gmail.com"
+				android:layout_width="wrap_content"
+				android:textColor="?attr/colorPrimary"
+				android:textSize="15sp"
+				android:layout_gravity="center" />
+
+		</LinearLayout>
+
+	</LinearLayout>
+
+</android.support.design.widget.CoordinatorLayout>
+

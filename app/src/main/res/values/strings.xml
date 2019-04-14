@@ -1,0 +1,26 @@
+<!--
+  ~ Copyright (C) 2015 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<resources>
+    <string name="app_name">"Arduino Controller"</string>
+    <string name="terms">Terms &amp; Conditions</string>
+    <string name="exit">Exit</string>
+	<string name="about">About</string>
+	<string name="help">Help</string>
+	<string name="lbl_close">Close</string>
+    <string name="lbl_open">Open</string>
+	<string name="adID">ca-app-pub-1228532423785389~2280728119</string>
+	<string name="adId1">ca-app-pub-1228532423785389/1460925874</string>
+</resources>
