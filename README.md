@@ -4,12 +4,14 @@ Arduino controller is a simple app to demonastrate the making connection and con
 
 # Here are some screenshots
 
-![alt text](https://drive.google.com/file/d/1hOx5GaMqopTrG_8_oGMcbO8f99MI7nqS/view?usp=drivesdk)
+![Main Activity](screenshots/a.png)
 
-![alt text](https://drive.google.com/file/d/13ePMa161tdyYO_-DMWhuyzABlB1JfA4c/view?usp=drivesdk)
+![Navigation View](screenshots/b.png)
 
-![alt text](https://drive.google.com/file/d/1-v8C16DUJIjmEMfh1BxbCwpwRK3oKGHN/view?usp=drivesdk)
+![Digital Fragment](screenshots/c.png)
 
-![alt text](https://drive.google.com/file/d/1Z-1bKeKN437UgtEha-7HcgboJHEnjcqb/view?usp=drivesdk)
+![PWM Fragment](screenshots/d.png)
 
-![alt text](https://drive.google.com/file/d/1hixASRSGoeDAGcGar1IorzPafJT5n5NT/view?usp=drivesdk)
+![Data Fragment](screenshots/e.png)
+
+
